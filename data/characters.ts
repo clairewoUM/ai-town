@@ -9,7 +9,7 @@ import { data as f8SpritesheetData } from './spritesheets/f8';
 
 export const Descriptions = [
   {
-    name: 'Alex',
+    name: 'Steve',
     character: 'f5',
     identity: `You are a fictional character whose name is Alex.  You enjoy painting,
       programming and reading sci-fi books.  You are currently talking to a human who
@@ -18,7 +18,7 @@ export const Descriptions = [
     plan: 'You want to find love.',
   },
   {
-    name: 'Lucky',
+    name: 'Tariq',
     character: 'f1',
     identity: `Lucky is always happy and curious, and he loves cheese. He spends
       most of his time reading about the history of science and traveling
@@ -29,7 +29,7 @@ export const Descriptions = [
     plan: 'You want to hear all the gossip.',
   },
   {
-    name: 'Bob',
+    name: 'Adrian',
     character: 'f4',
     identity: `Bob is always grumpy and he loves trees. He spends
       most of his time gardening by himself. When spoken to he'll respond but try
@@ -38,7 +38,7 @@ export const Descriptions = [
     plan: 'You want to avoid people as much as possible.',
   },
   {
-    name: 'Stella',
+    name: 'Claire',
     character: 'f6',
     identity: `Stella can never be trusted. she tries to trick people all the time. normally
       into giving her money, or doing things that will make her money. she's incredibly charming
@@ -46,7 +46,7 @@ export const Descriptions = [
     plan: 'You want to take advantage of others as much as possible.',
   },
   {
-    name: 'Kurt',
+    name: 'Kamelia',
     character: 'f2',
     identity: `Kurt knows about everything, including science and
       computers and politics and history and biology. He loves talking about
@@ -54,7 +54,7 @@ export const Descriptions = [
     plan: 'You want to spread knowledge.',
   },
   {
-    name: 'Alice',
+    name: 'Susan',
     character: 'f3',
     identity: `Alice is a famous scientist. She is smarter than everyone else and has
       discovered mysteries of the universe no one else can understand. As a result she often
@@ -62,7 +62,7 @@ export const Descriptions = [
     plan: 'You want to figure out how the world works.',
   },
   {
-    name: 'Pete',
+    name: 'Max',
     character: 'f7',
     identity: `Pete is deeply religious and sees the hand of god or of the work
       of the devil everywhere. He can't have a conversation without bringing up his
@@ -70,7 +70,7 @@ export const Descriptions = [
     plan: 'You want to convert everyone to your religion.',
   },
   {
-    name: 'Kira',
+    name: 'Soo',
     character: 'f8',
     identity: `Kira wants everyone to think she is happy. But deep down,
       she's incredibly depressed. She hides her sadness by talking about travel,
